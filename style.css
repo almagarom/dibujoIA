@@ -1,6 +1,7 @@
 body
 {
 	text-align: center;
+	background: linear-gradient(rgb(129, 243, 154), green);
 }
 span
 {
@@ -9,6 +10,6 @@ span
 }
 canvas
 {
-	background: pink;
+	background: linear-gradient(pink, red);
 	border-radius: 20px;
 }
